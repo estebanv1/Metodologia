@@ -1,0 +1,15 @@
+¿Qué tipos de interacción tienen los cursos (Páneles, videos, tests, )?
+
+
+¿Cómo se realiza la matrícula (Botón de matricular, requiere autorización, formulario)?
+
+
+¿Cuántos cursos hay aproximadamente?
+
+
+¿Campos para la consulta (Solo por nombre, filtros)?
+
+
+¿Existe un límite de usuarios loggeados en la plataforma?
+
+
